@@ -26,7 +26,8 @@ and not under attack, without logging in to check?>
 Ubuntu Server 24.04 · Cloudflare Tunnel → Nginx · <anything else>
 
 ## Why I built this
-<1–2 sentences in your own words: what you wanted to learn>
+I want to learn more about system engineering and have the ability to run 
+my own server at home. It's a skill that will put me ahead, learning more as I push.
 
 ## Status
 Phase 1 — in progress# sentinel
