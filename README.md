@@ -4,8 +4,9 @@ A self-built monitoring, security, and ops toolkit for my public home-lab
 server at dahirabdirahman.com.
 
 ## The problem
-<1–2 sentences: you run a public server — how do you know it's healthy
-and not under attack, without logging in to check?>
+I have to log in to the server to manually run commands and check the 
+security of the server. Sometimes delays and not knowing the state of the server
+will be risky; that's why I need to build a dashboard that I can easily track what's going on. 
 
 ## What it does (so far)
 - [ ] Health checks — disk, memory, load, nginx, cloudflared (Phase 1)
