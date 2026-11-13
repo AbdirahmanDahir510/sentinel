@@ -9,7 +9,7 @@ security of the server. Sometimes delays and not knowing the state of the server
 will be risky; that's why I need to build a dashboard that I can easily track what's going on. 
 
 ## What it does (so far)
-- [ ] Health checks — disk, memory, load, nginx, cloudflared (Phase 1)
+- [x] Health checks — disk, memory, load, nginx, cloudflared (Phase 1)
 
 ## Roadmap
 | Phase | Component | Stack |
@@ -31,4 +31,4 @@ I want to learn more about system engineering and have the ability to run
 my own server at home. It's a skill that will put me ahead, learning more as I push.
 
 ## Status
-Phase 1 — in progress# sentinel
+Phase 1 — in complete# sentinel
